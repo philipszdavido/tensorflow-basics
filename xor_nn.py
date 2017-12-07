@@ -34,7 +34,7 @@ writer = tf.summary.FileWriter("./logs/xor_logs", sess.graph_def)
 sess.run(init)
 
 t_start = time.clock()
-for i in range(1):
+for i in range(100000):
 	sess.run(train_step, feed_dict={x_: XOR_X, y_: XOR_Y})
 	if i % 1000 == 0:
 		print('Epoch ', i)
