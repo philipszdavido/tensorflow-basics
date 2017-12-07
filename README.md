@@ -22,8 +22,6 @@ This repo contains samples of tensorflow snippets that covers the fundamentals o
 
         python <example-file>.py
 
-
-
 1.  Using the `Jupyter Notebook`, run the following in your terminal:
 
         jupyter notebook
