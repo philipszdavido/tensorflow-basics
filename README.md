@@ -23,7 +23,7 @@ This repo contains samples of tensorflow snippets that covers the fundamentals o
 
 1.  Using the `Jupyter Notebook`, run the following in your terminal:
 
-        jupyter notebook
+        jupyter notebook
 
 1.  Navigate to `localhost:8888/tree#`, select the file you want to run.
 1.  Click on the `Cell` menu, then on `Run All Below`.
