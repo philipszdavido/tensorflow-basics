@@ -19,8 +19,6 @@ This repo contains samples of tensorflow snippets that covers the fundamentals o
 
         cd tensorflow-basics
 
-
-
 1.  Using the terminal, you can run an example using the following command format:
 
         python <example-file>.py
