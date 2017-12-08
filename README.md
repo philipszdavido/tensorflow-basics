@@ -29,6 +29,11 @@ This repo contains samples of tensorflow snippets that covers the fundamentals o
 1.  Navigate to `localhost:8888/tree#`, select the file(`.ipynb`) you want to run.
 1.  Click on the `Cell` menu, then on `Run All Below`.
 
+# Requirements
+* [Python 3.5](https://python.org)
+* [Jupyter Notebook](https://jupyter.org)
+* [TensorFlow](https://tensorflow.org)
+
 ## How can I thank You?
 Why not star the github repo? The attention would be appreciated! How about sharing the link for this repo on Twitter?
 
