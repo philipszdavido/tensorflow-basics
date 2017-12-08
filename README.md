@@ -14,10 +14,9 @@ This repo contains samples of tensorflow snippets that covers the fundamentals o
         git clone https://github.com/philipszdavido/tensorflow-basics.git
 
 
-1.  Move into the `tensorflow-basics
-` directory from the terminal:
+1.  Move into the `tensorflow-basics` directory from the terminal:
 
-        cd tensorflow-basics
+    cd tensorflow-basics
 
 1.  Using the terminal, you can run an example using the following command format:
 
